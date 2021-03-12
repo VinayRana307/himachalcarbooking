@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/himachalcarbooking/static/css/main.0002028c.chunk.css",
+    "main.js": "/himachalcarbooking/static/js/main.d77b10b9.chunk.js",
+    "main.js.map": "/himachalcarbooking/static/js/main.d77b10b9.chunk.js.map",
+    "runtime-main.js": "/himachalcarbooking/static/js/runtime-main.53943e61.js",
+    "runtime-main.js.map": "/himachalcarbooking/static/js/runtime-main.53943e61.js.map",
+    "static/js/2.cf86bff5.chunk.js": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js",
+    "static/js/2.cf86bff5.chunk.js.map": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js.map",
+    "static/js/3.e5cc6168.chunk.js": "/himachalcarbooking/static/js/3.e5cc6168.chunk.js",
+    "static/js/3.e5cc6168.chunk.js.map": "/himachalcarbooking/static/js/3.e5cc6168.chunk.js.map",
+    "index.html": "/himachalcarbooking/index.html",
+    "static/css/main.0002028c.chunk.css.map": "/himachalcarbooking/static/css/main.0002028c.chunk.css.map",
+    "static/js/2.cf86bff5.chunk.js.LICENSE.txt": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53943e61.js",
+    "static/js/2.cf86bff5.chunk.js",
+    "static/css/main.0002028c.chunk.css",
+    "static/js/main.d77b10b9.chunk.js"
+  ]
+}
