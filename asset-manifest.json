@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/himachalcarbooking/static/css/main.0002028c.chunk.css",
-    "main.js": "/himachalcarbooking/static/js/main.6004a403.chunk.js",
-    "main.js.map": "/himachalcarbooking/static/js/main.6004a403.chunk.js.map",
-    "runtime-main.js": "/himachalcarbooking/static/js/runtime-main.53943e61.js",
-    "runtime-main.js.map": "/himachalcarbooking/static/js/runtime-main.53943e61.js.map",
-    "static/js/2.cf86bff5.chunk.js": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js",
-    "static/js/2.cf86bff5.chunk.js.map": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js.map",
-    "static/js/3.e5cc6168.chunk.js": "/himachalcarbooking/static/js/3.e5cc6168.chunk.js",
-    "static/js/3.e5cc6168.chunk.js.map": "/himachalcarbooking/static/js/3.e5cc6168.chunk.js.map",
+    "main.js": "/himachalcarbooking/static/js/main.4017b955.chunk.js",
+    "main.js.map": "/himachalcarbooking/static/js/main.4017b955.chunk.js.map",
+    "runtime-main.js": "/himachalcarbooking/static/js/runtime-main.9341962d.js",
+    "runtime-main.js.map": "/himachalcarbooking/static/js/runtime-main.9341962d.js.map",
+    "static/js/2.7c6459c0.chunk.js": "/himachalcarbooking/static/js/2.7c6459c0.chunk.js",
+    "static/js/2.7c6459c0.chunk.js.map": "/himachalcarbooking/static/js/2.7c6459c0.chunk.js.map",
+    "static/js/3.5267076c.chunk.js": "/himachalcarbooking/static/js/3.5267076c.chunk.js",
+    "static/js/3.5267076c.chunk.js.map": "/himachalcarbooking/static/js/3.5267076c.chunk.js.map",
     "index.html": "/himachalcarbooking/index.html",
     "static/css/main.0002028c.chunk.css.map": "/himachalcarbooking/static/css/main.0002028c.chunk.css.map",
-    "static/js/2.cf86bff5.chunk.js.LICENSE.txt": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js.LICENSE.txt"
+    "static/js/2.7c6459c0.chunk.js.LICENSE.txt": "/himachalcarbooking/static/js/2.7c6459c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53943e61.js",
-    "static/js/2.cf86bff5.chunk.js",
+    "static/js/runtime-main.9341962d.js",
+    "static/js/2.7c6459c0.chunk.js",
     "static/css/main.0002028c.chunk.css",
-    "static/js/main.6004a403.chunk.js"
+    "static/js/main.4017b955.chunk.js"
   ]
 }
