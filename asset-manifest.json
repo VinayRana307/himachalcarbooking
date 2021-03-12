@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/himachalcarbooking/static/css/main.0002028c.chunk.css",
-    "main.js": "/himachalcarbooking/static/js/main.d77b10b9.chunk.js",
-    "main.js.map": "/himachalcarbooking/static/js/main.d77b10b9.chunk.js.map",
+    "main.js": "/himachalcarbooking/static/js/main.6004a403.chunk.js",
+    "main.js.map": "/himachalcarbooking/static/js/main.6004a403.chunk.js.map",
     "runtime-main.js": "/himachalcarbooking/static/js/runtime-main.53943e61.js",
     "runtime-main.js.map": "/himachalcarbooking/static/js/runtime-main.53943e61.js.map",
     "static/js/2.cf86bff5.chunk.js": "/himachalcarbooking/static/js/2.cf86bff5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.53943e61.js",
     "static/js/2.cf86bff5.chunk.js",
     "static/css/main.0002028c.chunk.css",
-    "static/js/main.d77b10b9.chunk.js"
+    "static/js/main.6004a403.chunk.js"
   ]
 }
